@@ -7,6 +7,5 @@ public class Main {
         // write your code here huh hell
         // write your code here jooh hell
         // write your code here yeah hell
-
     }
 }
